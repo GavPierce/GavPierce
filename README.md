@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @GavPierce a full stack web developer! 
 - 🚀 I love developing and using any and all new technologies
+- 👀 Check out my gitlab repos as well!  https://gitlab.com/users/GavinPierce97/projects
